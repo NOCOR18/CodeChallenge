@@ -1,0 +1,5 @@
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BE_CodingChal\bin\Debug\BE_CodingChal.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BE_CodingChal\bin\Debug\BE_CodingChal.pdb
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BE_CodingChal\obj\Debug\BE_CodingChal.csproj.CoreCompileInputs.cache
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BE_CodingChal\obj\Debug\BE_CodingChal.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BE_CodingChal\obj\Debug\BE_CodingChal.pdb

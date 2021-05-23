@@ -1,0 +1,15 @@
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\BL_CodingChal.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\BL_CodingChal.pdb
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\ADO_CodingChal.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\ADO_CodingChal.pdb
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\obj\Debug\BL_CodingChal.csprojAssemblyReference.cache
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\obj\Debug\BL_CodingChal.csproj.CoreCompileInputs.cache
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\obj\Debug\BL_CodingChal.csproj.CopyComplete
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\obj\Debug\BL_CodingChal.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\obj\Debug\BL_CodingChal.pdb
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\BE_CodingChal.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\BE_CodingChal.pdb
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\RestSharp.dll
+C:\Users\bnora\OneDrive\Documentos\BRNC\pryCodingChal_Norabuena\BL_CodingChal\bin\Debug\RestSharp.xml
